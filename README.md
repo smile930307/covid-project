@@ -53,13 +53,5 @@ mapbox://styles/hackbotone/ck8vt8vdj2fz91ilax6nwtins
 ### Note
 If you face any problem or have any suggestion on improving the code then feel free to raise an issue.
 
-### Blog & Youtube explanation
-[https://hackbotone.com/blog/covid-19-full-stack-application](https://hackbotone.com/blog/covid-19-full-stack-application)
-
-[https://www.youtube.com/watch?v=dth5jfLDuus](https://www.youtube.com/watch?v=dth5jfLDuus)
-
-### Website Design & Developed by
-[Anshuman Pattnaik](https://www.linkedin.com/in/anshuman123/)
-
 ### License
 This project is licensed under the [MIT License](LICENSE)
